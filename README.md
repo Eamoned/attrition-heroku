@@ -1,4 +1,4 @@
-# attrition-heroku
+# HR Attrition Prediction App
 
 Hiring & retraining employees require substantial time, skills and capital and this can impact small businesses particularly. High employee attrition will lead to significant disruption and utimately higher costs. Therefore it is in the interests of a business to understand the drivers of attrition and take steps to minimise employee attrition.
 
