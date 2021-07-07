@@ -16,3 +16,6 @@ The following Models were trained and evaluated:
 Random Forest, Deep Learning and XGB Classifier had similar accuracy scores (with SMOTE applied). The Deep Learniing model takes a little longer to process and uses up more memory so this model was excluded. In the end RF and XGB had similar performance so either of them would have been suffice. In this case I choose XGB and this will be the model deployed.
 
 Note, the dataset used to build this application was unbalanced. When training models on such datasets, class unbalance influences a learning algorithm during training by making decision rule biased towards the majority class and optimizes the predictions based on the majority class in the dataset. There are are a number of ways to deal with this issue and in this case SMOTE (Synthetic Minority Over-sampling Technique) was used. This method creates synthetic samples of your data, so rather than taking copies of observations, SMOTE uses a distance measure to create synthetic samples of data points that would not be far from the data points. Refer to the Feature engineering and model evaluation Jupyter Notebook for more details.
+
+
+https://eamoned.github.io/EamonC_Portfolio/post/project-9/
